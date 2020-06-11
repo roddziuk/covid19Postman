@@ -1,0 +1,12 @@
+country, limit, valid
+Brazil, 1, true
+Russia, 1, true
+Cuba, 1, true
+a, 5, true
+Mexico, 1, true
+Iran, 1, true
+Venezuela, 1, true
+Poland, 1, true 
+Belarus, 1, true 
+France, 1, true
+RRRRR, 0, false
